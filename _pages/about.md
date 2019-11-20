@@ -16,7 +16,7 @@ If my work seems remotely of interest to you, you should definitely check out [o
 
 If you are social justice minded, you should definitely check out [my husband's website](https://melendezrodriguez.com/). His website is much more serious than mine.
 
-I should probably stop advocating for other people's websites and start worrying about my own.
+I should probably stop advocating for other people's websites and start worrying about my own. That being said, here is my [CV](https://xialiyu1995.github.io/files/cv.pdf).
 
 
 BTW here is a quote that I really like (also just trying out different syntax in markdown):
