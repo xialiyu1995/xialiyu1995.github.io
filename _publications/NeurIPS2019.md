@@ -1,0 +1,15 @@
+---
+title: "Humans flexibly transfer options at multiple levels of abstractions."
+collection: publications
+permalink: /publication/NeurIPS2019
+excerpt: 'This paper is about the options framework.'
+date: 2019-12-13
+venue: 'NeurIPS 2019 Biological and Artificial Reinforcement Learning Workshop'
+paperurl: 'http://xialiyu1995.github.io/files/NeurIPS2019/NeurIPS_2019_paper.pdf'
+citation: 'Liyu Xia, Anne Collins. (2019). &quot;Humans flexibly transfer options at multiple levels of abstractions.&quot; <i>NeurIPS 2019</i>.'
+---
+This paper is about the options framework.
+
+[Download paper here](http://xialiyu1995.github.io/files/NeurIPS2019/NeurIPS_2019_paper.pdf)
+
+Recommended citation: Liyu Xia, Anne Collins. (2019). "Humans flexibly transfer options at multiple levels of abstractions." <i>NeurIPS 2019</i>.
