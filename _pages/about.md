@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Jimmy. Liyu, 立宇, is my actual first name; Xia, 夏, is my last name (just wondering if it will display Chinese characters). I go by Jimmy to make everyone's life easier. Thanks for visiting my website! This site is a fork from https://academicpages.github.io/. It's still (obviously) under construction! And I am still (slowly) learning markdown.
+Hi, thanks for visiting my website! This site is a fork from https://academicpages.github.io/. It's still under construction! And I am gradually updating the contents.
 
-I obtained my undergraduate degrees in Pure Mathematics and Computational Mathematics from the University of Chicago in 2016. Currently I am a PhD candidate in Applied Mathematics at UC Berkeley, working with Dr. Anne Collins on using computational modeling of the reinforcement learning system to answer questions of how humans learn and generalize prior knowledge. I use the word 'hierarchical' a lot, in the sense of hierarchical reinforcement learning (for a really nice and easy intro, see [here](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)) and hierarchical modeling with [STAN](https://mc-stan.org/). 
+My name is 夏 (last name: Xia) 立宇 (first name: Liyu). You might know me by Jimmy. Don't worry! You are at the right place. I go by Jimmy because it's just much easier for everyone. 
 
-If my work seems remotely of interest to you, you should definitely check out [our lab website](https://www.ocf.berkeley.edu/~acollins/).
+I obtained my undergraduate degrees in Pure Mathematics and Computational Mathematics from the University of Chicago in 2016. Currently I am a PhD candidate in Applied Mathematics at UC Berkeley, working with Dr. Anne Collins on using computational modeling and behavioral approaches to answer questions regarding how humans learn and generalize prior knowledge. I use the word 'hierarchical' a lot, in the sense of hierarchical reinforcement learning (for a good intro, see [here](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)) and hierarchical modeling with [STAN](https://mc-stan.org/). Here is my [CV](https://xialiyu1995.github.io/files/cv.pdf).
 
-If you are social justice minded, you should definitely check out [my husband's website](https://melendezrodriguez.com/). His website is much more serious than mine.
+If my work seems of interest to you, also check out [our lab website](https://www.ocf.berkeley.edu/~acollins/).
 
-I should probably stop advocating for other people's websites and start worrying about my own. That being said, here is my [CV](https://xialiyu1995.github.io/files/cv.pdf).
+If you are social justice minded, also check out [my husband's website](https://melendezrodriguez.com/).
 
-
-BTW here is a quote that I really like (also just trying out different syntax in markdown):
+And here is a quote that I really like:
 
 > We can only see a short distance ahead, 
 >
