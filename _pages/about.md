@@ -14,7 +14,7 @@ My name is 夏 (last name: Xia) 立宇 (first name: Liyu). You might know me by 
 
 I obtained my undergraduate degrees in Pure Mathematics and Computational Mathematics from the University of Chicago in 2016. Currently I am a PhD candidate in Applied Mathematics at UC Berkeley, working with Dr. Anne Collins on using computational modeling and behavioral approaches to answer questions regarding how humans learn and generalize prior knowledge. Here is my [CV](https://xialiyu1995.github.io/files/cv.pdf).
 
-I use the word 'hierarchical' a lot, in the sense of [hierarchical reinforcement learning](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/) and hierarchical modeling with [STAN](https://mc-stan.org/).
+I use the word 'hierarchical' a lot, in the sense of [hierarchical reinforcement learning](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/) and [hierarchical modeling with STAN](https://mc-stan.org/).
 
 If my work seems of interest to you, also check out [our lab website](https://www.ocf.berkeley.edu/~acollins/). If you are social justice minded, also check out [my husband's website](https://melendezrodriguez.com/).
 
