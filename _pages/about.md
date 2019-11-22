@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thanks for visiting my website! This site is a fork from https://academicpages.github.io/. It's still under construction! And I am gradually updating the contents.
+Hi, thanks for visiting my website! This site is a fork from [academicpages.github.io](https://academicpages.github.io/). It's still under construction! And I am gradually updating the contents.
 
 My name is 夏 (last name: Xia) 立宇 (first name: Liyu). You might know me by Jimmy. Don't worry! You are at the right place. I go by Jimmy because it's just much easier for everyone. 
 
