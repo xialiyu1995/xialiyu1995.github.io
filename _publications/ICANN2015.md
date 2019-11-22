@@ -2,7 +2,7 @@
 title: "A Probabilistic View of the Spatial Pooler in Hierarchical Temporal Memory."
 collection: publications
 permalink: /publication/ICANN2015
-excerpt: 'This paper is about HTM.'
+excerpt: 'This paper is about Hierarchical Temporal Memory.'
 date: 2015-05
 venue: 'International Conference on Artificial Neural Networks (ICANN)'
 paperurl: 'http://xialiyu1995.github.io/files/ICANN2015/ICANN_2015_paper.pdf'
