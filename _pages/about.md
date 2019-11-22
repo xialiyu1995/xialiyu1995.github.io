@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thanks for visiting my website! This site is a fork from [academicpages.github.io](https://academicpages.github.io/). It's still under construction! And I am gradually updating the contents.
+Hi, thanks for visiting my website! This site used [academicpages.github.io](https://academicpages.github.io/) as a template. It's still under construction, and I am gradually adding more contents.
 
 My name is [夏](https://en.wiktionary.org/wiki/%E5%A4%8F) (last name: xià) [立](https://en.wiktionary.org/wiki/%E7%AB%8B)[宇](https://en.wiktionary.org/wiki/%E5%AE%87) (first name: lìyǔ). You might know me by Jimmy. Don't worry! You are at the right place. I go by Jimmy because it's just much easier for everyone. I would still appreciate it if you try to pronouce my real first name!
 
